@@ -46,7 +46,7 @@ This project aims to enhance mobile security by transforming suspicion into acti
 This project requires the following dependencies:
 
 - **Programming Language**: Python, HTML, CSS, Javascript, Android Studio packages
-- **Package Manager**: Conda
+- **Package Manager**: Conda, Android packer checker(apktool)
 
 ### Installation
 
